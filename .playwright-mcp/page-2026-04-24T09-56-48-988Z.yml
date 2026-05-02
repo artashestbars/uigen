@@ -1,0 +1,86 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e5]:
+      - heading "React Component Generator" [level=1] [ref=e7]
+      - generic [ref=e9]:
+        - generic [ref=e53]:
+          - generic [ref=e54]:
+            - generic [ref=e56]: Create a user profile card component
+            - img [ref=e59]
+          - generic [ref=e62]:
+            - img [ref=e65]
+            - generic [ref=e69]:
+              - paragraph [ref=e71]: I'll create a user profile card component for you.
+              - generic [ref=e75]: Creating /App.jsx
+              - separator [ref=e77]
+              - generic [ref=e78]:
+                - paragraph [ref=e79]: "I've created a user profile card component with:"
+                - list [ref=e80]:
+                  - listitem [ref=e81]:
+                    - strong [ref=e82]: Dark, rich design
+                    - text: ": slate-950 to indigo-950 gradient background with slate-900 card"
+                  - listitem [ref=e83]:
+                    - strong [ref=e84]: Distinctive layout
+                    - text: ": Overlapping profile image floating above the card header"
+                  - listitem [ref=e85]:
+                    - strong [ref=e86]: Bold typography
+                    - text: ": Large, black-weight name with accent-colored role and location"
+                  - listitem [ref=e87]:
+                    - strong [ref=e88]: Visual hierarchy
+                    - text: ": Stats section with strong accent colors (indigo, rose, emerald)"
+                  - listitem [ref=e89]:
+                    - strong [ref=e90]: Interactive elements
+                    - text: ": Follow and Message buttons with hover states"
+                  - listitem [ref=e91]:
+                    - strong [ref=e92]: Social links
+                    - text: ": Rounded icon buttons that highlight on hover"
+                  - listitem [ref=e93]:
+                    - strong [ref=e94]: Polish details
+                    - text: ": Gradient header, colored stats, clean borders and shadows"
+                - paragraph [ref=e95]: The component is fully self-contained and ready to use!
+        - generic [ref=e19]:
+          - textbox "Describe the React component you want to create..." [ref=e20]
+          - button [disabled] [ref=e21]:
+            - img [ref=e22]
+    - separator [ref=e25]
+    - generic [ref=e27]:
+      - generic [ref=e28]:
+        - tablist [ref=e30]:
+          - tab "Preview" [selected] [ref=e31]
+          - tab "Code" [ref=e32]
+        - generic [ref=e33]:
+          - button "Sign In" [ref=e34]
+          - button "Sign Up" [ref=e35]
+      - iframe [ref=e96]:
+        - generic [ref=f2e4]:
+          - img [ref=f2e9]
+          - generic [ref=f2e11]:
+            - generic [ref=f2e12]:
+              - heading "Sarah Anderson" [level=2] [ref=f2e13]
+              - paragraph [ref=f2e14]: Product Designer
+              - paragraph [ref=f2e15]: San Francisco, CA
+            - paragraph [ref=f2e16]: Crafting beautiful digital experiences. Coffee enthusiast & design advocate.
+            - generic [ref=f2e17]:
+              - generic [ref=f2e18]:
+                - paragraph [ref=f2e19]: 2.4K
+                - paragraph [ref=f2e20]: Followers
+              - generic [ref=f2e21]:
+                - paragraph [ref=f2e22]: "847"
+                - paragraph [ref=f2e23]: Following
+              - generic [ref=f2e24]:
+                - paragraph [ref=f2e25]: "156"
+                - paragraph [ref=f2e26]: Projects
+            - generic [ref=f2e27]:
+              - button "Follow" [ref=f2e28] [cursor=pointer]
+              - button "Message" [ref=f2e29] [cursor=pointer]
+            - generic [ref=f2e30]:
+              - link [ref=f2e31] [cursor=pointer]:
+                - /url: "#"
+                - img [ref=f2e32]
+              - link [ref=f2e34] [cursor=pointer]:
+                - /url: "#"
+                - img [ref=f2e35]
+              - link [ref=f2e37] [cursor=pointer]:
+                - /url: "#"
+                - img [ref=f2e38]
+  - alert [ref=e47]

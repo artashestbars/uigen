@@ -1,0 +1,35 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e5]:
+      - heading "React Component Generator" [level=1] [ref=e7]
+      - generic [ref=e9]:
+        - generic [ref=e53]:
+          - generic [ref=e54]:
+            - generic [ref=e56]: Create a user profile card component
+            - img [ref=e59]
+          - generic [ref=e62]:
+            - img [ref=e65]
+            - generic [ref=e69]:
+              - paragraph [ref=e71]: I'll create a user profile card component for you.
+              - generic [ref=e72]:
+                - img [ref=e73]
+                - generic [ref=e75]: Creating /App.jsx
+        - generic [ref=e19]:
+          - textbox "Describe the React component you want to create..." [disabled] [ref=e20]
+          - button [disabled] [ref=e21]:
+            - img [ref=e22]
+    - separator [ref=e25]
+    - generic [ref=e27]:
+      - generic [ref=e28]:
+        - tablist [ref=e30]:
+          - tab "Preview" [selected] [ref=e31]
+          - tab "Code" [ref=e32]
+        - generic [ref=e33]:
+          - button "Sign In" [ref=e34]
+          - button "Sign Up" [ref=e35]
+      - generic [ref=e40]:
+        - img [ref=e42]
+        - heading "Welcome to UI Generator" [level=3] [ref=e44]
+        - paragraph [ref=e45]: Start building React components with AI assistance
+        - paragraph [ref=e46]: Ask the AI to create your first component to see it live here
+  - alert [ref=e47]
